@@ -28,3 +28,8 @@ h2 {
   font-size: 21px;
   color: grey;
 }
+.copyright {
+  font-size: 21px;
+  color: grey;
+  text-align: right;
+}
